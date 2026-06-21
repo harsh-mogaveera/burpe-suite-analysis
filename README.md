@@ -1,6 +1,6 @@
 # Burp Suite Web Analysis Report
 
- Objective:
+# Objective:
 To analyze and manipulate HTTP requests and responses using Burp Suite.
 
 ## Methodology
@@ -8,9 +8,13 @@ To analyze and manipulate HTTP requests and responses using Burp Suite.
 - Sent requests to Repeater
 - Modified headers and methods
 - Observed server responses
-
+  
+## Tools
+- Burpe Suite community edition
+- Kali Linux
+- VMware
+  
 ## Results
-
  Test Case 1: Redirection
 - Input: trip.com
 - Output: 301 redirect to ctrip.com
